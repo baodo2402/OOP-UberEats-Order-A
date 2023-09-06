@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=id\ name
+comment1.target=Customer(int,\ java.lang.String)
+comment2.params=choice
+comment2.target=java.lang.String[][]\ placeOrder(int)
+comment3.params=order
+comment3.target=void\ checkout(java.lang.String[][])
+comment4.params=
+comment4.target=java.lang.String[][]\ chosenOrder()
+comment5.params=finalOrder
+comment5.target=void\ setFinalOrder(java.lang.String[][])
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

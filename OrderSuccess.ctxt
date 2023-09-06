@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OrderSuccess
+comment1.params=name\ address
+comment1.target=OrderSuccess(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=javax.swing.ImageIcon\ createTickIcon()
+numComments=3

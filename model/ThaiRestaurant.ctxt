@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ThaiRestaurant
+comment1.params=name
+comment1.target=ThaiRestaurant(java.lang.String)
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=java.lang.String[][]\ orders()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
